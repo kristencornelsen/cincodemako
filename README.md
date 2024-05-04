@@ -4,7 +4,8 @@
 - [ ] [Saffron Rice](https://theforkedspoon.com/spanish-saffron-rice)
 - [x] black beans
 - [ ] [Slow Cooker Chicken tinga](https://www.thekitchn.com/recipe-slow-cooker-chicken-tinga-260804#post-recipe-13047)
-- [ ] [Slow Cooker Brisket](https://houseofyumm.com/slow-cooker-mexican-brisket/)
+- [x] [Slow Cooker Brisket](https://houseofyumm.com/slow-cooker-mexican-brisket/)
+      should be done around 3!!!
 - [ ] Kale salad
 
 
